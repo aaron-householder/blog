@@ -6,7 +6,7 @@ description: "Local Docker Environment for Learning"
 tags: ["docker", "ethereum"]
 categories: ["ethereum"]
 hideMeta: false
-searchHidden: true
+searchHidden: false
 ShowBreadCrumbs: false
 ---
 
